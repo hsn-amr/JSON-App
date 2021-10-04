@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JSON App</string>
+    <string-array name="currencies_array">
+        <item>ada</item>
+        <item>aed</item>
+        <item>afn</item>
+        <item>all</item>
+        <item>amd</item>
+        <item>ang</item>
+        <item>aoa</item>
+        <item>ars</item>
+    </string-array>
+</resources>
